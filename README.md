@@ -71,7 +71,7 @@ The script extracts data from these predefined SQL Server tables:
 ## Running the Script
    Execute the script in your terminal:
    ```bash
-   python etl_script.py
+   python etl.py
    ```
 
 ---
