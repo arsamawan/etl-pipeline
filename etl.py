@@ -2,7 +2,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
 import pandas as pd
-# import os
 pwd = 'demopass1'
 uuid = 'etl'
 
